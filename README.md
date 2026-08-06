@@ -1,4 +1,4 @@
-# laravel-cleanup-boilerplate
+# laravel_cleanup_boilerplate
 
 A fresh `laravel new` install isn't actually empty. You get a welcome page, example tests, an "inspire" console command, a User model wired into auth config, default migrations, seeder code that depends on the factory you're about to delete, and a Vite config that pulls in a font just to render the landing page you'll never ship.
 
